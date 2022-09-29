@@ -11,3 +11,10 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/73610021/193054421-c3baeb72-b5bf-49c1-b34e-da92513f1d58.png)
 
 (Root on Neck or Head - Ignore LeftEye, RightEye and any other bones you don't want to move)
+
+
+
+# Short Hair
+![Screenshot_3](https://user-images.githubusercontent.com/73610021/193055075-382ee83a-b036-48c7-b6cd-1775186c4589.png)
+
+(Root on Neck or Head - Ignore LeftEye, RightEye and any other bones you don't want to move)
